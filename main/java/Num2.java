@@ -1,4 +1,6 @@
 public class Num2 {
+
+
     public static boolean Only1And4(int[] arr) {
         boolean i1 = false, i4 = false;
         for (int i = 0; i < arr.length; i++) {
