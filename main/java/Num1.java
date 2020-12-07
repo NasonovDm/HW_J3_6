@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class Num1 {
 
+
     public static int[] AfterLast4(int[] arr) throws RuntimeException {
         int n = 0;
         String str = Arrays.toString(arr);
